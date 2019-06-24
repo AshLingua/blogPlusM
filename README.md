@@ -1,2 +1,0 @@
-# blogPlus
-a tutorial enhancement
